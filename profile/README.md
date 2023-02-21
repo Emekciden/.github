@@ -1,3 +1,3 @@
 # Emekciden
 
-* [emekciden.vercel.app](https://emekciden.vercel.app/)
+* [emekciden.heroku.app](https://emekciden.heroku.app/)
